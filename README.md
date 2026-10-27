@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BaonixD&label=Profile%20views&color=9acd32&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&duration=2500&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=720&height=44&lines=Backend+developer+from+Almaty"/>
     <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&duration=2500&pause=100000&color=1F2328&center=true&vCenter=true&repeat=false&width=720&height=44&lines=Backend+developer+from+Almaty" alt="Backend developer from Almaty"/>
@@ -22,6 +18,13 @@
   <a href="https://github.com/BaonixD?tab=repositories"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaonixD/BaonixD/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/BaonixD/BaonixD/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+  </picture>
+</p>
+
 ```python
 class TechStack:
     languages = ["Python", "SQL"]
@@ -31,10 +34,3 @@ class TechStack:
     testing = ["pytest"]
     infra = ["Docker", "Nginx", "Linux", "Git"]
 ```
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaonixD/BaonixD/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/BaonixD/BaonixD/output/github-snake.svg" alt="Snake eating my contribution graph"/>
-  </picture>
-</p>
