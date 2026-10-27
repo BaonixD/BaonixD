@@ -1,7 +1,26 @@
-### Hi, I'm Ilyas 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=40&duration=2500&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=720&height=70&lines=%F0%9F%91%8B+Hello%21+I%27m+Ilyas"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=40&duration=2500&pause=100000&color=1F2328&center=true&vCenter=true&repeat=false&width=720&height=70&lines=%F0%9F%91%8B+Hello%21+I%27m+Ilyas" alt="👋 Hello! I'm Ilyas"/>
+  </picture>
+</p>
 
-Backend developer from Almaty, student at KBTU ('28).
-I enjoy clean APIs, solid databases and things that just work.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BaonixD&label=Profile%20views&color=9acd32&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&duration=2500&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=720&height=44&lines=Backend+developer+from+Almaty"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&duration=2500&pause=100000&color=1F2328&center=true&vCenter=true&repeat=false&width=720&height=44&lines=Backend+developer+from+Almaty" alt="Backend developer from Almaty"/>
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilyas-amzekhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/Baonix"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://github.com/BaonixD?tab=repositories"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ```python
 class TechStack:
@@ -14,7 +33,8 @@ class TechStack:
 ```
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ilyas-amzekhan/">linkedin</a> ·
-  <a href="https://t.me/Baonix">telegram</a> ·
-  <a href="https://github.com/BaonixD?tab=repositories">github</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaonixD/BaonixD/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/BaonixD/BaonixD/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+  </picture>
 </p>
