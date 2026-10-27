@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="370" viewBox="0 0 860 370" role="img" aria-label="Tech stack">
-<rect x="1" y="1" width="858" height="368" rx="12" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="336" viewBox="0 0 860 336" role="img" aria-label="Tech stack">
+<rect x="1" y="1" width="858" height="334" rx="12" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
 <path d="M2 50 V13 A11 11 0 0 1 13 2 H847 A11 11 0 0 1 858 13 V50 Z" fill="#f6f8fa"/>
 <rect x="2" y="50" width="856" height="1" fill="#d1d9e0"/>
 <circle cx="26" cy="25.0" r="6.5" fill="#ff5f57"/>
@@ -18,19 +18,15 @@
 <text x="190.6" y="196.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#1f2328">FastAPI, Django</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.66s" dur="0.01s" fill="freeze"/>
-<text x="32" y="230.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0550ae">libraries</text>
-<text x="190.6" y="230.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#1f2328">SQLAlchemy, Pydantic, Alembic</text>
+<text x="32" y="230.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0550ae">databases</text>
+<text x="190.6" y="230.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#1f2328">PostgreSQL, Redis</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.84s" dur="0.01s" fill="freeze"/>
-<text x="32" y="264.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0550ae">databases</text>
-<text x="190.6" y="264.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#1f2328">PostgreSQL, Redis</text>
+<text x="32" y="264.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0550ae">infra</text>
+<text x="190.6" y="264.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#1f2328">Docker, Linux</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.02s" dur="0.01s" fill="freeze"/>
-<text x="32" y="298.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#0550ae">infra</text>
-<text x="190.6" y="298.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#1f2328">Docker, Linux</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.20s" dur="0.01s" fill="freeze"/>
-<text x="32" y="332.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#1a7f37">$</text>
-<rect x="56.4" y="315.0" width="11.2" height="22" fill="#1f2328"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="32" y="298.0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" fill="#1a7f37">$</text>
+<rect x="56.4" y="281.0" width="11.2" height="22" fill="#1f2328"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </g>
 </svg>

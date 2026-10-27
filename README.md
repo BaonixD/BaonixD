@@ -20,14 +20,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaonixD/BaonixD/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/BaonixD/BaonixD/output/github-snake.svg" alt="Snake eating my contribution graph" width="86%"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./terminal-dark-8567bd3a.svg"/>
-    <img src="./terminal-light-edc367d9.svg" width="86%" alt="$ python -m tech_stack — languages: Python, C++; frameworks: FastAPI, Django; libraries: SQLAlchemy, Pydantic, Alembic; databases: PostgreSQL, Redis; infra: Docker, Linux"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./terminal-dark-aaea1521.svg"/>
+    <img src="./terminal-light-48215c36.svg" width="86%" alt="$ python -m tech_stack — languages: Python, C++; frameworks: FastAPI, Django; databases: PostgreSQL, Redis; infra: Docker, Linux"/>
   </picture>
 </p>
