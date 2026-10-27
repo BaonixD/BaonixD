@@ -27,5 +27,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./terminal-dark.svg"/>
-  <img src="./terminal-light.svg" width="100%" alt="$ python -m tech_stack — languages: Python, SQL; frameworks: FastAPI, Django; libraries: SQLAlchemy, Pydantic, Alembic; databases: PostgreSQL, Redis; testing: pytest; infra: Docker, Nginx, Linux, Git"/>
+  <img src="./terminal-light.svg" width="100%" alt="$ python -m tech_stack — languages: Python, C++, SQL; frameworks: FastAPI, Django; libraries: SQLAlchemy, Pydantic, Alembic; databases: PostgreSQL, Redis; infra: Docker, Linux"/>
 </picture>
