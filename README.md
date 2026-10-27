@@ -15,9 +15,11 @@
 
 ## 🧰 Tech stack
 
-<p align="center">
-  <img src="./stack.svg" alt="Tech stack: Python, FastAPI, Java, PostgreSQL, Redis, Docker, Linux, Cloudflare, Swift, Kotlin" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./stack-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./stack-light.svg"/>
+  <img src="./stack-light.svg" alt="Tech stack: Python, FastAPI, PostgreSQL, Redis, Docker, Linux, Cloudflare" width="100%"/>
+</picture>
 
 ---
 
