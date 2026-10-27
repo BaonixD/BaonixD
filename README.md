@@ -1,21 +1,14 @@
+### Hi, I'm Ilyas 👋
+
+Backend developer from Almaty, student at KBTU ('28).
+I enjoy clean APIs, solid databases and things that just work.
+
 ```python
-class AboutMe:
-    name = "Ilyas Amzekhan"
-    role = "Backend Developer"
-    location = "Almaty, Kazakhstan"
-    education = "KBTU '28"
-
-    def __str__(self) -> str:
-        return "Backend developer who enjoys clean APIs, solid databases and things that just work."
+class TechStack:
+    backend = ["Python", "FastAPI"]
+    data = ["PostgreSQL", "Redis"]
+    infra = ["Docker", "Linux", "Cloudflare"]
 ```
-
-## Tech stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./stack-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./stack-light.svg"/>
-  <img src="./stack-light.svg" alt="Tech stack: Python, FastAPI, PostgreSQL, Redis, Docker, Linux, Cloudflare" width="100%"/>
-</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilyas-amzekhan/">linkedin</a> ·
