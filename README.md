@@ -5,9 +5,12 @@ I enjoy clean APIs, solid databases and things that just work.
 
 ```python
 class TechStack:
-    backend = ["Python", "FastAPI"]
-    data = ["PostgreSQL", "Redis"]
-    infra = ["Docker", "Linux", "Cloudflare"]
+    languages = ["Python", "SQL"]
+    frameworks = ["FastAPI", "Django"]
+    libraries = ["SQLAlchemy", "Pydantic", "Alembic"]
+    databases = ["PostgreSQL", "Redis"]
+    testing = ["pytest"]
+    infra = ["Docker", "Nginx", "Linux", "Git"]
 ```
 
 <p align="center">
