@@ -6,7 +6,7 @@ class AboutMe:
     education = "KBTU '28"
 
     def __str__(self) -> str:
-        return "I build APIs with Python & FastAPI and ship them to production."
+        return "Backend developer who enjoys clean APIs, solid databases and things that just work."
 ```
 
 ## Tech stack
