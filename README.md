@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=40&duration=2500&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=720&height=70&lines=%F0%9F%91%8B+Hello%21+I%27m+Ilyas"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=40&duration=2500&pause=100000&color=1F2328&center=true&vCenter=true&repeat=false&width=720&height=70&lines=%F0%9F%91%8B+Hello%21+I%27m+Ilyas" alt="👋 Hello! I'm Ilyas"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=40&duration=2500&pause=100000&color=1F2328&center=true&vCenter=true&repeat=false&width=720&height=70&lines=%F0%9F%91%8B+Hello%21+I%27m+Ilyas" alt="Hello! I'm Ilyas"/>
   </picture>
 </p>
 
