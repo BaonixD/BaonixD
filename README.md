@@ -19,6 +19,12 @@
 </p>
 
 <p align="center">
+  <br/>
+  <img src="./divider.svg" width="86%" alt=""/>
+  <br/><br/>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./terminal-dark-aaea1521.svg"/>
     <img src="./terminal-light-48215c36.svg" width="86%" alt="$ python -m tech_stack — languages: Python, C++; frameworks: FastAPI, Django; databases: PostgreSQL, Redis; infra: Docker, Linux"/>
