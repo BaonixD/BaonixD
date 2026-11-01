@@ -26,7 +26,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./terminal-dark-aaea1521.svg"/>
-    <img src="./terminal-light-48215c36.svg" width="86%" alt="$ python -m tech_stack — languages: Python, C++; frameworks: FastAPI, Django; databases: PostgreSQL, Redis; infra: Docker, Linux"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./terminal-dark-9ae0b849.svg"/>
+    <img src="./terminal-light-315142f1.svg" width="86%" alt="$ python -m tech_stack — languages: Python, C++; frameworks: FastAPI, Django; databases: PostgreSQL, Redis; infra: Docker, Linux; monitoring: Grafana, Prometheus, Loki"/>
   </picture>
 </p>
